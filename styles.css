@@ -1,0 +1,102 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+  }
+  
+  .container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+    align-content: center;
+    align-items: center;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    position: relative;
+    width: 45%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+.color-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+
+  .green {
+    background-color: #a2b375;
+  }
+  
+  .purple {
+    background-color: #7a676c;
+    color: #fff;
+  }
+  
+  .chestnut {
+    background-color: #A2705D;
+    color: #fff;
+  }
+  
+  .orange {
+    background-color: #D7A361;
+  }
+  
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 800;
+  }
+  
+  .roboto-flex {
+    font-family: 'Roboto Flex', serif;
+  }
+  
+  .funnel-display {
+    font-family: 'Funnel Display', serif;
+  }
+  
+  .indie-flower {
+    font-family: 'Indie FLower', serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 800;
+    font-size: 32px;
+    font-family: 'Funnel Display', serif;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 25px;
+    font-family: 'Indie Flower', serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Roboto Flex', serif;
+  }
+
+ 
